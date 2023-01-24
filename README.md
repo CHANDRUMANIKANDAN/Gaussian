@@ -15,13 +15,13 @@ Step 4: Using np.zeros() set the matrix as null matrix.
 Step 5: Using nested for loop get input from the user for each element in the matrix.
 Step 6: Using nested for loop find the ratio and perform the elementary row operations and find the final matrix.
 Step 7: Use back substitution method to find the value of the variables and print it.
-Step 8: End the program.
+Step 8: End the program. 
 ## Program:
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: CHANDRU M
-RegisterNumber: 22009010
+Developed by: 
+RegisterNumber: 
 */
 import numpy as np
 import sys
@@ -50,8 +50,8 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
-![Screenshot_20230124_081656](https://user-images.githubusercontent.com/118644502/214314475-95c32edb-8fe4-4a27-a718-0c87677c5319.png)
 
+![Screenshot 2023-01-24 193459](https://user-images.githubusercontent.com/118644502/214315831-785adab4-3480-4fd5-8355-75f1a8fecaaa.png)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
